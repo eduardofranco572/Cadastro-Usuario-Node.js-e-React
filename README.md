@@ -1,6 +1,6 @@
 # Cadastro de Usuario em Node.js com React.
 
-Olá, Meu nome é Eduardo e esse é o projeto de um WebSite Para cadastra usuarios num sistema com banco de dados no qual foi progamado em Node e Reac, Projeto feito para aprimorar meu aprendizado.
+Olá, Meu nome é Eduardo e esse é o projeto de um WebSite Para cadastra usuarios num sistema com banco de dados no qual foi progamado em Node e React, Projeto feito para aprimorar meu aprendizado.
 <br>
 <br>
   <div align="center">
