@@ -3,8 +3,8 @@
 Olá, Meu nome é Eduardo e esse é o projeto de um WebSite Para cadastra usuarios num sistema com banco de dados no qual foi progamado em Node e Reac, Projeto feito para aprimorar meu aprendizado.
 <br>
 <br>
- <div align="center">
-   # Como Executar.
+  <div align="center">
+   Como Executar.
   </div>
   <br>
   Após abaixar a pasta do projeto execute o arquivo cadastrousernodejs em um servidor por exemplo o xampp ou heidiSQL. Agora abra o cmd na pasta register\src\server, e
