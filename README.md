@@ -4,7 +4,7 @@ Olá, Meu nome é Eduardo e esse é o projeto de um WebSite Para cadastra usuari
 <br>
 <br>
   <div align="center">
-  # Como Executar
+  Como Executar
   </div>
   <br>
   Após abaixar a pasta do projeto execute o arquivo cadastrousernodejs em um servidor por exemplo o xampp ou heidiSQL. Agora abra o cmd na pasta register\src\server, e
