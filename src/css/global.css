@@ -1,0 +1,13 @@
+body{
+    background: radial-gradient(circle, #1f3756 50%, #141539);
+    color: white;
+    font-family: "Barlow Semi Condensed", sans-serif;
+    margin: 0;
+    padding: 0;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}

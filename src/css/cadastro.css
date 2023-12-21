@@ -1,0 +1,157 @@
+body{
+    background: radial-gradient(circle, #1f3756 50%, #141539);
+    color: white;
+    font-family: "Barlow Semi Condensed", sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.conteiner {
+    width: 30%;
+    border: 2px solid #141539;
+    border-radius: 1rem;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: white;
+    color: black;
+    padding: 2rem;
+    height: 100%;
+    border-radius: 0 1rem 1rem 0;
+    border: 1px solid white;
+    border-left: none;
+}
+
+.inputinfos{
+    width: 25rem;
+    padding: 10px;
+    border-radius: 0.5rem;
+    border: 2px solid #141539;
+    margin-top: 1rem;
+    background-color: transparent;
+    color: black;
+    font-size: 16px;
+}
+
+.cadastro{
+    display: flex;
+    width: 25rem;
+    justify-content: end;
+    align-items: center;
+}
+
+input:focus {
+    outline: none;
+}
+
+.button{
+    margin-top: 2rem;
+}
+
+.button input{
+    background: transparent;
+    border: 2px solid #141539;
+    border-radius: 0.5rem;
+    color: black;
+    font-size: 16px;
+    width: 12rem;
+    padding: 10px;
+    letter-spacing: 0.1rem;
+    cursor: pointer;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.button input:hover{
+    transform: scale(1.1);
+    transition: 0.2s;
+}
+
+.cadastro a{
+    text-decoration: none;
+    color: #606e85;
+    font-weight: bold;
+}
+
+.cadastro p{
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.contenerimg {
+    display: flex;
+    justify-content: center;
+}
+
+.contenerimg img {
+    width: 6rem;
+    height: 6rem;
+    border-radius: 50%;
+    margin-bottom: 1rem;
+    margin-top: 1rem;
+}
+
+.file{
+    background-color: transparent;
+    border: 2px solid #141539;
+    border-radius: 0.5rem;
+    padding: 10px;
+    cursor: pointer;
+}
+
+#root{
+    width: 100%;
+}
+
+.buttoncadastro button{
+    background-color: transparent;
+    border: none;
+    color: black;
+    cursor: pointer;
+    user-select: none;
+    font-size: 16px;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 31rem;
+}
+
+.lado1{
+    width: 26rem;
+    height: 100%;
+    background-color: #00000017;
+    background-size: cover;
+    background-position: center;
+    -webkit-backdrop-filter: blur(10px);
+    backdrop-filter: blur(10px);
+    padding: 2rem;
+    border-radius: 2rem 0 0 2rem;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    border: 1px solid;
+    border-right: none;
+    -webkit-box-shadow: 21px 3px 83px 4px rgba(31,55,86,0.77);
+    -moz-box-shadow: 21px 3px 83px 4px rgba(31,55,86,0.77);
+    box-shadow: 5px 3px 25px 4px rgba(31,55,86,0.77);
+}
+
+.imgdes{
+    width: 19rem;
+    height: 15rem;
+    margin-top: 1rem;
+}
