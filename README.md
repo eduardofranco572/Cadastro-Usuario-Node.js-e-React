@@ -9,7 +9,7 @@ Olá, Meu nome é Eduardo e esse é o projeto de um WebSite Para cadastra usuari
   <br>
   Após abaixar a pasta do projeto execute o arquivo cadastrousernodejs em um servidor por exemplo o xampp ou heidiSQL. Agora abra o cmd na pasta register\src\server, e
   execute o comando “node server.js” onde deverá  aparecer a seguinte mensagem, “Servidor rodando em http://localhost:5000 Conectado ao banco de dados MySQL”. 
-   
+   <br>
   Agora abra a pasta src com o visual studio code ou outro editor de codigo. E execute o comando no terminal “npm start” nisso só aguardar que a aplicação irar abrir no navegador na porta 3000.
 
 <br>
